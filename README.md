@@ -53,19 +53,3 @@ Use your computer's LAN IP, for example:
 ```text
 http://192.168.1.10:3000/
 ```
-
-## Important Notes
-
-- This project is intended to be GitHub-ready and strong as a codebase handoff.
-- It still needs a real Android Studio compile/run pass for final validation.
-- Cleartext traffic is enabled for local development convenience. Switch to HTTPS for real deployment.
-- Health Connect may require installation/update depending on Android version.
-
-## Recommended Next Steps
-
-- compile in Android Studio
-- test on emulator first
-- test on real Android device
-- validate login against local VitaVault backend
-- validate permission flow and sync results
-- add screenshots before showcasing on GitHub
