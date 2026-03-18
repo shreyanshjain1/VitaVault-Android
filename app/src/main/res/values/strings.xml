@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VitaVault Mobile</string>
+    <string name="health_connect_permission_rationale">VitaVault Mobile requests Health Connect permissions so it can sync selected wellness readings into your VitaVault account.</string>
+</resources>
